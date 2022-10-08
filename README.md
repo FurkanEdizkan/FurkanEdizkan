@@ -20,7 +20,7 @@
 -->
 
 <div align=center>
-    <img align="right" alt="GIF" src="https://media1.giphy.com/media/8n71tI3FK02XK/giphy.gif?cid=790b7611a21d85215854a7f9a81c85b6a8cb57712d514594&rid=giphy.gif&ct=g" alt="Alphonse" height=200/>
+    <img align="center" alt="GIF" src="https://media1.giphy.com/media/8n71tI3FK02XK/giphy.gif?cid=790b7611a21d85215854a7f9a81c85b6a8cb57712d514594&rid=giphy.gif&ct=g" alt="Alphonse" height=250/>
 </div>
 <br>
 <p align="center">
@@ -28,5 +28,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3000&pause=500&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Software+Engineer%7CRobotics%7CMl%2FDl" alt="Typing SVG" /></a>
 </p>
 
-#
+# Work in progress
 
+
+
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
+</p>
+<br>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Stats" />
+</p>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Stats" /></p>
