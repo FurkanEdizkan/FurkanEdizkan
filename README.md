@@ -22,18 +22,111 @@
 </div>
 -->
 
+<!--GIF-->
 <div align=center>
     <img align="center" alt="GIF" src="https://media1.giphy.com/media/8n71tI3FK02XK/giphy.gif?cid=790b7611a21d85215854a7f9a81c85b6a8cb57712d514594&rid=giphy.gif&ct=g" alt="Alphonse" height=250/>
 </div>
 <br>
+
+<!--Typing-->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3500&pause=800&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Hello+I'am+Furkan+Edizkan" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3500&pause=700&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Software+Engineer%7CRobotics%7CMl%2FDl" alt="Typing SVG" /></a>
 </p>
 <hr>
 
+<!--My profile-->
+### Welcome to my profile 
 
+<hr>
+<!--My profile class-->
 
+```python
+class FurkanEdizkan():
+    def __init__(self):
+        self.name = "Furkan Edizkan"
+        self.username = "FurkanEdizkan"
+        self.current_location = "Turkey"
+
+        self.languages = [
+            "English", 
+            "Turkish"]
+
+        self.experience = [{
+            "company": "İnovasyon Mühendislik Ltd. Şti.",
+            "title": "sofware engineer",
+            "start_date": "01/11/2021",
+            "end_date": "",
+            "currently_working": "True"}]
+
+        self.education = [{
+            "university": "METU NCC",
+            "program": "EEE",
+            "graduation_date": "2021"}]
+            
+        self.my_skills = {
+            "programming languages": [
+                "Python",
+                "C++",
+                "C#",
+                "C",
+                "R",
+                "SQL"],
+            "utilities": [
+                "OpenCV",
+                "Numpy",
+                "Open3D",
+                "MoveIt",
+                "shell script",
+                "bash"
+                "powershell",
+                "Markdown"],
+            "tools": [
+                "Unreal Engine",
+                "Unity",
+                "MATLAB"],
+            "editor": [
+                "Visual Studio Code"],
+            "frameworks": [
+                "ROS",
+                "TensorFlow",
+                "PyTorch"],
+            "devops": [
+                "Git",
+                "GitHub",
+                "GitLab",
+                "Docker"],
+            "database": [
+                "sqlite"],
+            "cloud": [
+                "AWS"],
+            "systems": [
+                "Linux-Ubuntu",
+                "Windows"],
+            "design": [
+                "Blender",
+                "GIMP",
+                "inkscape",
+                "Kdenlive"],
+            "soft": [
+                "natural leader",
+                "adaptability"
+                "critical thinker",
+                "fast learner"
+                "high motivation"]
+            }
+
+# !TODO
+        self.learning = {
+            "technical": [], 
+            "soft": []
+            }
+
+```
+
+<hr>
+
+<!--My statistics-->
 <h3>My Statistics</h3>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
@@ -48,7 +141,5 @@
 <p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/></p>
 
 <hr>
-
-### Watch my contribution graph get eaten by the snake 🐍
-
+<!--Snake-->
 <img align="center" src="https://raw.githubusercontent.com/FurkanEdizkan/FurkanEdizkan/output/github-contribution-grid-snake.svg" href="https://github.com/FurkanEdizkan">
