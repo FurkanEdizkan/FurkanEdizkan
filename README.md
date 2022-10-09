@@ -34,16 +34,17 @@
 # Work in progress
 
 
+<hr>
 
 
+
+<h3>My Statistics</h3>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
 </p>
 <br>
-
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Stats" />
 </p>
 <br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Stats" /></p>
