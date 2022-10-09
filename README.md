@@ -38,6 +38,28 @@
 <!--My profile-->
 ### Welcome to my profile 
 
+Work in progress
+
+<hr>
+
+<!--My statistics-->
+<h3>My Statistics</h3>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
+</p>
+<br>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Stats" />
+</p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Stats" /></p>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/></p>
+
+<hr>
+<!--Snake-->
+<img align="center" src="https://raw.githubusercontent.com/FurkanEdizkan/FurkanEdizkan/output/github-contribution-grid-snake.svg" href="https://github.com/FurkanEdizkan">
+
 <hr>
 <!--My profile class-->
 
@@ -123,23 +145,3 @@ class FurkanEdizkan():
             }
 
 ```
-
-<hr>
-
-<!--My statistics-->
-<h3>My Statistics</h3>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
-</p>
-<br>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Stats" />
-</p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Stats" /></p>
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/></p>
-
-<hr>
-<!--Snake-->
-<img align="center" src="https://raw.githubusercontent.com/FurkanEdizkan/FurkanEdizkan/output/github-contribution-grid-snake.svg" href="https://github.com/FurkanEdizkan">
