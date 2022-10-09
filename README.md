@@ -31,12 +31,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3500&pause=700&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Software+Engineer%7CRobotics%7CMl%2FDl" alt="Typing SVG" /></a>
 </p>
 
-# Work in progress
+
 
 
 <hr>
 
+<p>
+    <a href="https://github.com/FurkanEdizkan/FurkanEdizkan/actions/workflows/metrics.yml"><img src="https://github.com/FurkanEdizkan/FurkanEdizkan/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
+</p>
 
+<hr>
+    <img align="center" src="https://raw.githubusercontent.com/FurkanEdizkan/FurkanEdizkan/output/github-contribution-grid-snake.svg" href="https://github.com/FurkanEdizkan">
+<br>
+<hr>
 
 <h3>My Statistics</h3>
 <p>
