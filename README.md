@@ -36,9 +36,6 @@
 
 <hr>
 
-<p>
-    <a href="https://github.com/FurkanEdizkan/FurkanEdizkan/actions/workflows/metrics.yml"><img src="https://github.com/FurkanEdizkan/FurkanEdizkan/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
-</p>
 
 <hr>
     <img align="center" src="https://raw.githubusercontent.com/FurkanEdizkan/FurkanEdizkan/output/github-contribution-grid-snake.svg" href="https://github.com/FurkanEdizkan">
