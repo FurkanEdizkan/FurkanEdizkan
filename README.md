@@ -135,7 +135,13 @@ class FurkanEdizkan():
                 "adaptability"
                 "critical thinker",
                 "fast learner"
-                "high motivation"]
+                "high motivation"],
+            "hobbies": [
+                "gym rat",
+                "frp enthusiast",
+                "podcast enjoyer",
+                "intellectual reader",
+                "researcher"]
             }
 
 # !TODO
