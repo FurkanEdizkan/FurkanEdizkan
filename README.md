@@ -118,6 +118,7 @@ class FurkanEdizkan():
                 "Git",
                 "GitHub",
                 "GitLab",
+                "TFS",
                 "Docker"],
             "database": [
                 "sqlite"],
