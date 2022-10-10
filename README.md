@@ -108,7 +108,8 @@ class FurkanEdizkan():
                 "Unity",
                 "MATLAB"],
             "editor": [
-                "Visual Studio Code"],
+                "Visual Studio Code",
+                "PyCharm"],
             "frameworks": [
                 "ROS",
                 "TensorFlow",
@@ -146,8 +147,30 @@ class FurkanEdizkan():
 
 # !TODO
         self.learning = {
-            "technical": [], 
-            "soft": []
+            "programming languages": [
+                ""],
+            "utilities": [
+                ""],
+            "tools": [
+                ""],
+            "editor": [
+                ""],
+            "frameworks": [
+                ""],
+            "devops": [
+                ""],
+            "database": [
+                ""],
+            "cloud": [
+                ""],
+            "systems": [
+                ""],
+            "design": [
+                ""],
+            "soft": [
+                ""],
+            "hobbies": [
+                ""]
             }
 
 ```
