@@ -33,13 +33,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3500&pause=800&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Hello+I'am+Furkan+Edizkan" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3500&pause=700&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Software+Engineer%7CRobotics%7CMl%2FDl" alt="Typing SVG" /></a>
 </p>
-<hr>
+
 
 <!--My profile-->
-### Welcome to my profile 
+
 
 Work in progress
 
+- ⏳ Age: 26
+- 🎓 Education: Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
+- 💻 I’m currently working as Robotic Software Engineer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
+- 🔭 Hobbies: Gym rat, FRP, Self improvement
+- 💬 Languages: English & Turkish
 <hr>
 
 <!--My statistics-->
@@ -47,11 +52,11 @@ Work in progress
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
 </p>
-<br>
+
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Stats" />
 </p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Stats" /></p>
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/></p>
