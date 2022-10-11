@@ -37,14 +37,20 @@
 
 <!--My profile-->
 
-
 Work in progress
 
 - ⏳ Age: 26
+
 - 🎓 Education: Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
+
 - 💻 I’m currently working as Robotic Software Engineer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
+
 - 🔭 Hobbies: Gym rat, FRP, Self improvement
+
 - 💬 Languages: English & Turkish
+
+#### Preferred arsenal 
+
 <hr>
 
 <!--My statistics-->
