@@ -149,7 +149,7 @@ class FurkanEdizkan():
 # !TODO
         self.learning = {
             "programming languages": [
-                ""],
+                "C++"],
             "utilities": [
                 ""],
             "tools": [
@@ -159,15 +159,15 @@ class FurkanEdizkan():
             "frameworks": [
                 ""],
             "devops": [
-                ""],
+                "Kubernetes"],
             "database": [
-                ""],
+                "MongoDB"],
             "cloud": [
                 ""],
             "systems": [
                 ""],
             "design": [
-                ""],
+                "Blender"],
             "soft": [
                 ""],
             "hobbies": [
