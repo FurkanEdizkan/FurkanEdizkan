@@ -55,17 +55,11 @@ Work in progress
 
 <!--My statistics-->
 <h3>My Statistics</h3>
-<!--Server problem will be fixed 
-https://youtu.be/n6d4KHSKqGk?t=107
-https://github.com/anuraghazra/github-readme-stats
-https://github.com/anuraghazra/github-readme-stats/issues/987
--->
-<!-- 
+
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
 </p>
--->
-<!--
+
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Stats" />
 </p>
