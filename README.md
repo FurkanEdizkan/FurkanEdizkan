@@ -66,9 +66,9 @@ Work in progress
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Stats" /></p>
-<!-- Server problem will bre fixed
+
 <p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/></p>
--->
+
 <hr>
 <!--Snake-->
 <img align="center" src="https://raw.githubusercontent.com/FurkanEdizkan/FurkanEdizkan/output/github-contribution-grid-snake.svg" href="https://github.com/FurkanEdizkan">
