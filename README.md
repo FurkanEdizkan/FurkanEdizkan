@@ -56,18 +56,24 @@ Work in progress
 <!--My statistics-->
 <h3>My Statistics</h3>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
+<br/>
+<p align="left">
+  <a href="https://github.com/FurkanEdizkan">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Commit_Streak" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/FurkanEdizkan">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark"
+  alt="FurkanEdizkan_Most_Used_Languages" />
+  </a>
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Stats" />
+<p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/>
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Stats" /></p>
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/></p>
+<br/>
 
 <hr>
 <!--Snake-->
