@@ -12,14 +12,18 @@
 
 <!--My profile-->
 ### Hello there, I am Furkan
-- Current work field: Robotics, Computer Vision, Point Cloud, Localization Algorithms, AI
-- 💬Ask me about stuff I'm working on
+- 🤔 Current work field: **Robotics**, **Computer Vision**, **Point Clouds**, **Localization Algorithms** and **AI**
+- 💬 Ask me about stuff I'm working on
 - ⏳ Age: 26
 - 🎓 Education: Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
 - 💻 I’m currently working as Robotic Software Engineer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
-- 🔭 Hobbies: Gym rat, FRP, Self improvement, Book enjoyer
+- 😄 Hobbies: Gym rat, FRP, Self improvement, Book enjoyer
 - 💬 Languages: English & Turkish
-- 📫 Reach me 
+- 📫 Reach me via [LinkedIn](), [Gmail]()
+
+<!--My socials-->
+#### My Socials
+
 
 <!--My arsenal-->
 #### Preferred Arsenal 
@@ -41,9 +45,8 @@ class FurkanEdizkan():
             "system": ["Linux-Ubuntu"],
             "utilities": ["OpenCV","Open3D","Numpy","Bash","JSON"],
             "design": ["Blender","GIMP","Inkscape","Kdenlive"],
-            "hobbies": ["Researcher","Gym rat","FRP enthusiast","Intellectual reader"]
-        }
-
+            "hobbies": ["Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
+            }
 ```
 
 <!--My statistics-->
