@@ -73,13 +73,12 @@ Work in progress
 <p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/>
 </p>
 
-<br/>
 
 <hr>
 <!--Snake-->
 <img align="center" src="https://raw.githubusercontent.com/FurkanEdizkan/FurkanEdizkan/output/github-contribution-grid-snake.svg" href="https://github.com/FurkanEdizkan">
-
 <hr>
+
 <!--My profile class-->
 
 ```python
