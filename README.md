@@ -20,10 +20,7 @@
         <a href="https://t.me/FurkanEdizkan"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
         <!--<a href=""><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter" /></a>-->
         <a href="https://github.com/FurkanEdizkan"><img src="https://img.shields.io/github/followers/FurkanEdizkan?style=social" alt="GitHub Followers" /></a>
-        
-</p>
 </div>
-
 
 <!--My profile-->
 ### Hello there, I am Furkan
