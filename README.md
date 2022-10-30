@@ -1,6 +1,6 @@
 <!--GIF-->
 <div align=center>
-    <img align="center" alt="GIF" src="https://media4.giphy.com/media/pNx09ajeVCJ3O/giphy.gif?cid=790b7611c62114dde22573a45ab9cb38630fd3c4be7b29f3&rid=giphy.gif&ct=g" alt="Guts" height=200/>
+    <img align="center" alt="GIF" src="https://media4.giphy.com/media/pNx09ajeVCJ3O/giphy.gif?cid=790b7611c62114dde22573a45ab9cb38630fd3c4be7b29f3&rid=giphy.gif&ct=g" alt="Guts" height=275/>
 </div>
 <br>
 
