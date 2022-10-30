@@ -49,7 +49,7 @@ Work in progress
 
 - 💬 Languages: English & Turkish
 
-#### Preferred arsenal 
+#### Preferred Arsenal 
 
 <hr>
 
