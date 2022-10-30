@@ -28,6 +28,13 @@ Work in progress
 #### Preferred Arsenal 
 
 <!--My profile class-->
+```python
+class FurkanEdizkan():
+    def __init__(self):
+        self.name = "Furkan Edizkan"
+        self.username = "FurkanEdizkan"
+        self.current_location = "Turkey"
+```
 
 ```python
 class FurkanEdizkan():
