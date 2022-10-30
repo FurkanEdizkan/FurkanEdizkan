@@ -19,7 +19,7 @@
 - 💻 I’m currently working as Robotic Software Engineer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
 - 😄 Hobbies: Gym rat, FRP, Self improvement, Book enjoyer
 - 💬 Languages: English & Turkish
-- 📫 Reach me via [LinkedIn](linkedin.com/in/furkan-edizkan-8946a5195), [Gmail](mailto:furkandedizkan@gmail.com)
+- 📫 Reach me via [LinkedIn]([linkedin.com/in/furkan-edizkan-8946a5195](https://www.linkedin.com/in/furkan-edizkan-8946a5195/)), [Gmail](mailto:furkandedizkan@gmail.com)
 
 <!--My socials-->
 #### My Socials
