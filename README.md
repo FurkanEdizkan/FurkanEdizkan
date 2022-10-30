@@ -51,12 +51,12 @@ Work in progress
 
 #### Preferred Arsenal 
 
-<hr>
+
 
 <!--My statistics-->
 <h3>My Statistics</h3>
 
-<br/>
+
 <p align="left">
   <a href="https://github.com/FurkanEdizkan">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
@@ -72,7 +72,6 @@ Work in progress
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/>
 </p>
-
 
 <hr>
 <!--Snake-->
