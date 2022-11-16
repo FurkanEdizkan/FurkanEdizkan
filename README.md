@@ -90,6 +90,8 @@ class FurkanEdizkan():
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/>
 </p>
 
