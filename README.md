@@ -90,8 +90,10 @@ class FurkanEdizkan():
   </a>
 </p>
 
+<!--
 <p><img src="https://activity-graph.herokuapp.com/graph?username=FurkanEdizkan&theme=high-contrast&line=f48d01" width="100%"/>
 </p>
+-->
 
 <hr>
 <!--Snake-->
