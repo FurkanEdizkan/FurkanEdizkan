@@ -69,7 +69,7 @@ class FurkanEdizkan():
             "system": ["Linux-Ubuntu"],
             "utilities": ["OpenCV","Open3D","Numpy","Unreal Engine","Unity","Bash","JSON"],
             "design": ["Blender","GIMP","Inkscape","Kdenlive"],
-            "hobbies": ["Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
+            "hobbies": ["AI Prompter","Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
             }
 ```
 
