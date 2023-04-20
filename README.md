@@ -67,7 +67,7 @@ class FurkanEdizkan():
             "devops": ["Git","GitHub","Docker"],
             "cloud": ["AWS"],
             "system": ["Linux-Ubuntu"],
-            "utilities": ["OpenCV","Open3D","Numpy","Unreal Engine","Unity","Bash","JSON"],
+            "utilities": ["OpenCV","Open3D","Unreal Engine","Unity","Bash"],
             "design": ["Blender","GIMP","Inkscape","Kdenlive"],
             "hobbies": ["AI Prompter","Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
             }
