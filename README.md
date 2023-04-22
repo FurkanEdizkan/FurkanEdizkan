@@ -25,7 +25,7 @@
 <!--My profile-->
 ### Hello there, I am Furkan
 - 🤔 Current work field: **Robotics Algorithms**, **Computer Vision**, **Point Clouds**, **Localization Algorithms** and **AI**
-- 💬 Ask me about stuff I'm working on
+- 💬 Ask me about stuff I'm working on ...
 - ⏳ Age: 26
 - 🎓 Education: Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
 - 💻 I’m currently working as Robotic Software Engineer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
