@@ -68,7 +68,7 @@ class FurkanEdizkan():
             "cloud": ["AWS"],
             "system": ["Linux-Ubuntu"],
             "utilities": ["PCL","OpenCV","Open3D","Unreal Engine","Unity","Bash"],
-            "AI_tools": ["Stable Diffusion"],
+            "AI_tools": ["Stable Diffusion", "ChatGPT"],
             "design": ["Blender","GIMP","Inkscape","Kdenlive"],
             "hobbies": ["AI Prompter","Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
             }
