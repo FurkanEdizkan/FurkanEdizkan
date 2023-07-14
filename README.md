@@ -29,7 +29,7 @@
 - ⏳ Age: 1996 - Still Alive?
 - 🎓 Education: Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
 - 💻 I’m currently working as Robotic Software Engineer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
-- 😄 Hobbies: Gym rat, FRP, Self improvement, Book enjoyer
+- 😄 Hobbies: AI Artist, Gym rat, FRP, Self improvement, Book enjoyer
 - 💬 Languages: English & Turkish
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/furkan-edizkan-8946a5195/), [Gmail](mailto:furkandedizkan@gmail.com) and [Telegram](https://t.me/FurkanEdizkan)
 
