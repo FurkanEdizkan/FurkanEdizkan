@@ -26,7 +26,8 @@
 ### Hello there, I am Furkan
 - 🤔 Current work field: **Robotics Algorithms**, **Computer Vision**, **Point Clouds**, **Localization Algorithms** and **ML/DL**
 - 💬 Ask me about stuff I'm working on ...
-- ⏳ Age: 1996 - Still Alive?
+- Mental State: "Who's gonna carry the boats?" David Goggins
+- ⏳ Age: 1996 - Alive
 - 🎓 Education: Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
 - 💻 I’m currently working as Robotic Software Engineer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
 - 😄 Hobbies: AI Artist, Gym rat, FRP, Self improvement, Book enjoyer
