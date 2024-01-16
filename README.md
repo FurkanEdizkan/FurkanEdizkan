@@ -24,7 +24,7 @@
 
 <!--My profile-->
 ### Hello there, I am Furkan
-- 🤔 Current work field: **Robotics Algorithms**, **Computer Vision**, **Point Clouds**, **Localization Algorithms** and **ML/DL**
+- 🤔 Current work field: **Robotics**, **Computer Vision**, **Point Clouds**, and **ML/DL**
 - 💬 Ask me about stuff I'm working on ...
 - Mental State: "Who's gonna carry the boats?" David Goggins
 - ⏳ Age: 1996 - Alive
@@ -63,15 +63,15 @@ class FurkanEdizkan():
         self.current_location = "Turkey"
         self.languages = ["Turkish","English"]
         self.tools = {
-            "programming_languages": ["Python","C++","SQL"],
-            "frameworks": ["ROS","TensorFlow","PyTorch"],
+            "programming_languages": ["Python","C","C++","SQL"],
+            "frameworks": ["ROS","ROS2","TensorFlow","PyTorch"],
             "devops": ["Git","GitHub","Docker"],
             "cloud": ["AWS"],
             "system": ["Linux-Ubuntu"],
-            "utilities": ["PCL","OpenCV","Open3D","Unreal Engine","Unity","Bash"],
+            "utilities": ["OpenCV","PCL","Open3D","Unreal Engine","Unity"],
             "AI_tools": ["Stable Diffusion", "ChatGPT"],
             "design": ["Blender","GIMP","Inkscape","Kdenlive"],
-            "hobbies": ["AI Prompter","Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
+            "hobbies": ["Prompt Engineer","AI Artist","Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
             }
 ```
 
