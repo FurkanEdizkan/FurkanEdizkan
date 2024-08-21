@@ -14,11 +14,12 @@
 <div align=center>
         <a href="https://www.linkedin.com/in/furkan-edizkan-8946a5195/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://stackoverflow.com/users/14896772/furkan-edizkan"><img src="https://img.shields.io/badge/Stackoverflow-8C5520?style=flat&logo=stackoverflow&logoColor=D57011" alt="Stack Exchange" /></a>
-        <!--<a href=""><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" alt="Medium"/></a>-->
+        <a href="https://medium.com/@furkandedizkan"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" alt="Medium"/></a>
         <a href="mailto:furkandedizkan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
-        <!--<a href=""><img src="https://img.shields.io/badge/Kaggle-00b56a?&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>-->
+        <a href="https://www.kaggle.com/furkanedizkan"><img src="https://img.shields.io/badge/Kaggle-000000?&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
         <a href="https://t.me/FurkanEdizkan"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-        <!--<a href=""><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter" /></a>-->
+        <a href="https://x.com/furkanedizkan"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffurkanedizkan" alt="X" /></a>
+        <a href="https://huggingface.co/JanBartOlivia"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face--blue" alt="Hugging Face" /></a>
         <a href="https://github.com/FurkanEdizkan"><img src="https://img.shields.io/github/followers/FurkanEdizkan?style=social" alt="GitHub Followers" /></a>
 </div>
 
