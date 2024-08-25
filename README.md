@@ -60,10 +60,7 @@
 - 💬 English & Turkish
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/furkan-edizkan-8946a5195/), [Gmail](mailto:furkandedizkan@gmail.com) and [Telegram](https://t.me/FurkanEdizkan)
 
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
 
 <!--My arsenal-->
 ## Preferred Arsenal
@@ -168,30 +165,8 @@
 
 ---
 
-<!--My profile class-->
-```python
-class FurkanEdizkan():
-    def __init__(self):
-        self.name = "Furkan Edizkan"
-        self.username = "FurkanEdizkan"
-        self.current_location = "Turkey"
-        self.languages = ["Turkish","English"]
-        self.tools = {
-            "programming_languages": ["Python","C","C++","SQL"],
-            "frameworks": ["ROS","ROS2","TensorFlow","PyTorch"],
-            "devops": ["Git","GitHub","Docker"],
-            "cloud": ["AWS"],
-            "system": ["Linux-Ubuntu"],
-            "utilities": ["OpenCV","PCL","Open3D","Unreal Engine","Unity"],
-            "AI_tools": ["Stable Diffusion", "ChatGPT"],
-            "design": ["Blender","GIMP","Inkscape","Kdenlive"],
-            "hobbies": ["Prompt Engineer","AI Artist","Researcher","Self improvement devotee","Gym rat","FRP enthusiast","Intellectual reader"]
-            }
-```
-
 <!--My statistics-->
 <h3>My Statistics</h3>
-
 
 <p align="left">
   <a href="https://github.com/FurkanEdizkan">
