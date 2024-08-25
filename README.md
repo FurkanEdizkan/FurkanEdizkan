@@ -66,12 +66,10 @@
 
 
 <!--My arsenal-->
-#### Preferred Arsenal
-
+## Preferred Arsenal
 <!--TODO: add all images locally-->
 <!--TODO: add custom logos for my arsenal-->
 <!--TODO: Commented part will be open after I'am comfortable to say I am decent at them.-->
-
 <div style="display: flex; justify-content: space-between;">
   <!-- Programming Languages -->
   <div>
@@ -218,7 +216,6 @@
       <a href="https://www.gimp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="Gimp" width="50" height="50"/></a>
       <a href="https://inkscape.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="50" height="50"/></a>
       <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/></a>
-      <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/></a>
     </div>
   </div>
 
@@ -239,7 +236,7 @@
   <div style="flex: 1;">
     <h3>Other</h3>
     <div>
-      <a href="https://www.markdowntutorial.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/></a>
+      <a href="https://www.markdownguide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/></a>
     </div>
   </div>
 </div>
