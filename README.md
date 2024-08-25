@@ -165,23 +165,6 @@
 
 ---
 
-<!--My statistics-->
-<h3>My Statistics</h3>
-
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
-  </a>
-</p>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Commit_Streak" />
-  </a>
-</p>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark"
-  alt="FurkanEdizkan_Most_Used_Languages" />
-  </a>
-</p>
-
 <!-- My statistics -->
 <h3>My Statistics</h3>
 
