@@ -74,7 +74,7 @@
   <!-- Programming Languages -->
   <div>
     <h3>Programming Languages</h3>
-    <div>
+    <div align=left>
       <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
       <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C-lang" width="50" height="50"/></a>
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
@@ -94,7 +94,7 @@
   <!-- Databases -->
   <div>
     <h3>Databases</h3>
-    <div>
+    <div align=right>
       <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
       <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
       <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/></a>
