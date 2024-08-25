@@ -146,7 +146,7 @@
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" /></a>
   <!-- Systems -->
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/></a>
-  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="NixOS" width="50" height="50"/></a>
+  <a href="https://nixos.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="NixOS" width="50" height="50"/></a>
   <a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="50" height="50"/></a>
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
   <!-- Design -->
