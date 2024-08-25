@@ -6,7 +6,7 @@
 
 <!--Typing-->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=4000&pause=800&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=I+Must+Keep Going..." alt="My name" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=4000&pause=800&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=I+Must+Keep+Going..." alt="Motivation" /></a>
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3500&pause=700&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Software+Developer" alt="About me" /></a> -->
 </p>
 
