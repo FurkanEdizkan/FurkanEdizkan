@@ -56,7 +56,7 @@
 ### Hello there, I am Furkan Edizkan
 - 💻 I’m currently working as Software Developer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
 - 🎓 Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
-- :muscle: I enjoy being an AI Artist, Gym rat, Game Master, Self improvement Intellectual book enjoyer
+- :muscle: I enjoy being an AI Artist, Gym rat, Game Master, Self improvement, Intellectual book enjoyer
 - 💬 English & Turkish
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/furkan-edizkan-8946a5195/), [Gmail](mailto:furkandedizkan@gmail.com) and [Telegram](https://t.me/FurkanEdizkan)
 
