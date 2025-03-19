@@ -54,7 +54,7 @@
 
 <!--My profile-->
 ### Hello there, I am Furkan Edizkan
-- 💻 I’m currently working as Software Developer at [İnovasyon Mühendislik Ltd. Şti.](https://www.linkedin.com/company/inovasyonmuhendislik/?originalSubdomain=en)
+- 💻 I’m currently working as Autonomous Vehicle Eng. Team Member at [Ford Otosan](https://www.linkedin.com/company/ford-otosan/posts/?feedView=all)
 - 🎓 Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
 - :muscle: I enjoy being an AI Artist, Gym rat, Game Master, Self improvement, Intellectual book enjoyer
 - 💬 English & Turkish
