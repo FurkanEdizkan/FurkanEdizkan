@@ -174,9 +174,9 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FurkanEdizkan&count_private=true&show_icons=true&theme=dark" alt="FurkanEdizkan_Stats" />
   </div>
   <!-- Top Right: Commit Streak -->
-  <div style="flex: 1; min-width: 300px; padding: 10px; text-align: right;">
+  <!-- <div style="flex: 1; min-width: 300px; padding: 10px; text-align: right;">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanEdizkan&&theme=dark" alt="FurkanEdizkan_Commit_Streak" />
-  </div>
+  </div> -->
   <!-- Bottom Right: Most Used Languages -->
   <div style="flex: 1; min-width: 300px; padding: 10px; text-align: right;">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanEdizkan&layout=compact&theme=dark" alt="FurkanEdizkan_Most_Used_Languages" />
