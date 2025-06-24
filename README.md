@@ -1,49 +1,44 @@
 <!--GIF-->
 <div align=center>
-    <img align="center" alt="GIF" src="https://media4.giphy.com/media/pNx09ajeVCJ3O/giphy.gif?cid=790b7611c62114dde22573a45ab9cb38630fd3c4be7b29f3&rid=giphy.gif&ct=g" alt="Guts" height=275/>
+    <img align="center" alt="GIF" src="https://media4.giphy.com/media/pNx09ajeVCJ3O/giphy.gif?cid=790b7611c62114dde22573a45ab9cb38630fd3c4be7b29f3&rid=giphy.gif&ct=g" alt="Guts" height=200/>
 </div>
 <br>
 
 <!--Typing-->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=4000&pause=800&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=I+Must+Keep+Going..." alt="Motivation" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=4000&pause=800&color=7B7B7B&center=true&multiline=true&width=300&height=35&lines=I+Must+Keep+Going..." alt="Motivation" /></a>
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+&size=25&duration=3500&pause=700&color=7B7B7B&center=true&multiline=true&width=500&height=35&lines=Software+Developer" alt="About me" /></a> -->
 </p>
 
 <!--TODO: Add Fiverr-->
 <!--TODO: Add Upwork-->
-<!--TODO: Add Ko-fi-->
 <!--TODO: Add Patreon-->
-<!--TODO: Add Linktree-->
-<!--TODO: Add civitai-->
-<!--TODO: Add stackshare-->
-<!--TODO: Add Binance-->
-<!--TODO: Add behance-->
-<!--TODO: Add hackerrank-->
-<!--TODO: Add leetcode-->
-<!--TODO: Add Reddit>
-<!--TODO: Add stackoverflow>
-<!--TODO: Add coursera>
-<!--TODO: Add edx>
-<!--TODO: Add udemy -->
-<!--TODO: Add Cuda-->
-<!--TODO: Add Steam-->
-<!--TODO: Add Spotify-->
 
 <!--My socials-->
 <div align=center>
-        <a href="https://www.linkedin.com/in/furkan-edizkan-8946a5195/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stackoverflow.com/users/14896772/furkan-edizkan"><img src="https://img.shields.io/badge/Stackoverflow-8C5520?style=flat&logo=stackoverflow&logoColor=D57011" alt="Stack Exchange" /></a>
-        <a href="https://medium.com/@furkandedizkan"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" alt="Medium"/></a>
-        <a href="mailto:furkandedizkan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.kaggle.com/furkanedizkan"><img src="https://img.shields.io/badge/Kaggle-000000?&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
-        <a href="https://t.me/FurkanEdizkan"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-        <a href="https://x.com/furkanedizkan"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffurkanedizkan" alt="X" /></a>
-        <a href="https://huggingface.co/JanBartOlivia"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face--blue" alt="Hugging Face" /></a>
-        <a href="https://tr.pinterest.com/JanBartOlivia/"><img src="https://img.shields.io/badge/%F0%9F%96%8C%20Pinterest%20--red" alt="Hugging Face" /></a>
-        <a href="https://github.com/FurkanEdizkan"><img src="https://img.shields.io/github/followers/FurkanEdizkan?style=social" alt="GitHub Followers" /></a>
+  <a href="https://www.linkedin.com/in/furkan-edizkan-8946a5195/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@furkandedizkan"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:furkandedizkan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/FurkanEdizkan"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+  <a href="https://x.com/furkanedizkan"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffurkanedizkan" alt="X" /></a>
+</div>
+<div align=center>
+  <a href="https://www.kaggle.com/furkanedizkan"><img src="https://img.shields.io/badge/Kaggle-000000?&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://huggingface.co/JanBartOlivia"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face--blue" alt="Hugging Face" /></a>
+  <a href="https://leetcode.com/u/furkandedizkan/"><img src="https://img.shields.io/badge/LeetCode--yellow" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/furkandedizkan"><img src="https://img.shields.io/badge/HackerRank--black" alt="HackerRank" /></a>
 </div>
 
+<!--Design-->
+<div align=center>
+  <a href="https://www.behance.net/furkanedizkan"><img src="https://img.shields.io/badge/%F0%9F%96%8C%20Behance%20--black" alt="Behance" /></a>
+  <a href="https://tr.pinterest.com/JanBartOlivia/"><img src="https://img.shields.io/badge/%F0%9F%96%8C%20Pinterest%20--red" alt="Pinterest" /></a>
+  <a href="https://civitai.com/user/JanBartOlivia"><img src="https://img.shields.io/badge/%F0%9F%96%8C%20CivitAI%20--blue" alt="CivitAI" /></a>
+</div>
+
+<div align=center>
+  <a href="https://github.com/FurkanEdizkan"><img src="https://img.shields.io/github/followers/FurkanEdizkan?style=social" alt="GitHub Followers" /></a>
+</div>
 <!--
   TODO: Add sponsoring 
   https://github.com/sponsors/accounts
@@ -54,10 +49,8 @@
 
 <!--My profile-->
 ### Hello there, I am Furkan Edizkan
-- 💻 I’m currently working as Autonomous Vehicle Eng. Team Member at [Ford Otosan](https://www.linkedin.com/company/ford-otosan/posts/?feedView=all)
+- 💻 Autonomous Vehicle Eng. Team Member in [Ford Otosan](https://www.linkedin.com/company/ford-otosan/posts/?feedView=all)
 - 🎓 Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
-- :muscle: I enjoy being an AI Artist, Gym rat, Game Master, Self improvement, Intellectual book enjoyer
-- 💬 English & Turkish
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/furkan-edizkan-8946a5195/), [Gmail](mailto:furkandedizkan@gmail.com) and [Telegram](https://t.me/FurkanEdizkan)
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
