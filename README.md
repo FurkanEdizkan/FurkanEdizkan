@@ -21,7 +21,9 @@
   <a href="mailto:furkandedizkan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/FurkanEdizkan"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
   <a href="https://x.com/furkanedizkan"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffurkanedizkan" alt="X" /></a>
+  <a href="https://www.reddit.com/user/lycanthedark/"><img src="https://img.shields.io/badge/Reddit-12100E?style=flat&logo=reddit" alt="Reddit" /></a>
 </div>
+
 <div align=center>
   <a href="https://www.kaggle.com/furkanedizkan"><img src="https://img.shields.io/badge/Kaggle-000000?&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://huggingface.co/JanBartOlivia"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face--blue" alt="Hugging Face" /></a>
