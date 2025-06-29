@@ -49,6 +49,13 @@
   </div>
 -->
 
+
+<!--My profile-->
+### Hello there, I am Furkan Edizkan
+- 💻 Autonomous Vehicle Eng. Team Member in [Ford Otosan](https://www.linkedin.com/company/ford-otosan/posts/?feedView=all)
+- 🎓 Bachelor’s Degree in [Electrical and Electronics Engineering](https://ncc.metu.edu.tr/eee/home) from [METU NCC](https://ncc.metu.edu.tr/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/furkan-edizkan-8946a5195/), [Gmail](mailto:furkandedizkan@gmail.com) and [Telegram](https://t.me/FurkanEdizkan)
+
 ---
 
 <!-- My statistics -->
